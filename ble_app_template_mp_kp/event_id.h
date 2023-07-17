@@ -19,6 +19,8 @@ extern const char* nus_event_type[4];
 extern const char* fds_event_type[6];
 extern const char* fds_error_type[15];
 
+/*modify to test git*/
+
 #endif // EVENT_ID_H__
 
 
